@@ -2,7 +2,7 @@
 
 Writing to a file is another of the basic programming tasks that one usually needs to know about - luckily, this task is very simple in Node.js.
 
-# Writing The Entire File
+## Writing The Entire File
 
 We can use the handy `writeFile` method inside the standard library's `fs` module, which can save all sorts of time and trouble.
 
